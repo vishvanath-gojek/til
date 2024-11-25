@@ -353,5 +353,5 @@ So, the time.Now() is evaluated,and the reportAPILatency function later can just
 
 --------
 
-
+Get hosts for any url using `host google.com`
 
